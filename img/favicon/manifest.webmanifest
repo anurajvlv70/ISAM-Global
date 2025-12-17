@@ -1,0 +1,12 @@
+{
+  "name": "IsamGlobal - Consult.   Code.   Conquer",
+  "short_name": "IsamGlobal",
+  "icons": [
+    { "src": "/img/favicon/icon.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/img/favicon/icon.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#efefef",
+  "background_color": "#efefef",
+  "display": "standalone"
+}
+
